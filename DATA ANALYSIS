@@ -1,0 +1,38 @@
+DATA ANALYSIS
+CROSS SELLING IN INSURANCE
+FRONT END – POWER BI
+BACK END-MICROSOFT AZURE
+SCRIPT-R,PYTHON
+
+ABSTRACT
+A new methodology for cross-selling in insurance is presented in this paper. 
+The optimal cross-sales selection of prospects is such that the expected profit is maximized, 
+while at the same time the risk of suffering future losses is minimized.
+In order to solve these optimality problems a stochastic model of the profit, 
+expected to emerge from a single cross-sales prospect and from a selection of prospects, is developed.  
+This is shown to achieve considerable profit gains, compared to traditional cross-selling methods.
+Cross selling the right policies to the customer hepls the insurance industry to attain maximum profit.
+
+Existing system
+Cross selling model is available only for financial services not for insurances.
+Manual method is tedious in process.
+Requires a lot of time.
+Data is not secure.
+
+Literature Review
+Drawbacks of existing methods
+ Data is not secure
+ More competition
+ Prediction is difficuilt
+References
+http://www.studio.azureml.net
+https://en.wikipedia.org/wiki/Cross-selling
+https://neo4j.com/blog/collaborative-filtering-creating-teams/
+
+Module Split-up
+Prediction
+Suggesion
+Forecasting
+Reporting
+
+
